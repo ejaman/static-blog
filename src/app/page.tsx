@@ -1,3 +1,9 @@
+import Profile from "@/components/profile";
+
 export default function Home() {
-  return <section>Home Page</section>;
+  return (
+    <section>
+      <Profile />
+    </section>
+  );
 }
