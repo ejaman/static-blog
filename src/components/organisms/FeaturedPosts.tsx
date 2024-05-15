@@ -1,9 +1,9 @@
 import React from "react";
-import { getAllPosts } from "@/service/post";
+import { getFeaturedPosts } from "@/service/post";
 import PostGrid from "../molecules/PostGrid";
 
 export default async function FeaturedPosts() {
-  const posts = await getAllPosts();
+  const posts = await getFeaturedPosts();
   return (
     <section>
       <PostGrid posts={posts} />
