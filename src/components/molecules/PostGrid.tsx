@@ -1,6 +1,6 @@
 import { Post } from "@/service/post";
 import React from "react";
-import PostCard from "./PostCard";
+import PostCard from "../atoms/PostCard";
 
 type Props = { posts: Post[] };
 export default function PostGrid({ posts }: Props) {

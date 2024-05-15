@@ -1,4 +1,4 @@
-import FeaturedPosts from "@/components/FeaturedPosts";
+import FeaturedPosts from "@/components/organisms/FeaturedPosts";
 import Profile from "@/components/Profile";
 
 export default function Home() {
