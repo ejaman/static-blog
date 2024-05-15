@@ -10,10 +10,10 @@ export default function Header() {
         <h1 className="text-2xl font-bold">Static Blog</h1>
       </Link>
       <nav className="flex gap-3">
-        <Link href="/">home</Link>
-        <Link href="/about">about</Link>
-        <Link href="/posts">posts</Link>
-        <Link href="/contact">contact</Link>
+        <Link href="/">Home</Link>
+        <Link href="/about">About</Link>
+        <Link href="/posts">Posts</Link>
+        <Link href="/contact">Contact</Link>
       </nav>
     </header>
   );
