@@ -9,7 +9,7 @@ export default function PostCard({
 }: Props) {
   return (
     <Link href={`/post/${path}`} className="">
-      <article className="rounded-sm overflow-hidden shadow-sm border border-gray">
+      <article className="rounded-sm overflow-hidden shadow-sm md:hover:transform md:hover:-translate-y-2 transition-transform duration-300">
         <Image
           className="w-full"
           width={220}
