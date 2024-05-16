@@ -43,7 +43,7 @@
     "title": "인생에 도움이 되는 블로그 추천",
     "description": "꿀팁만 가득한 블로그 모음zip",
     "date": "2024-05-10",
-    "category": "tips",
+    "category": "Tips",
     "path": "life-hacks",
     "featured": true
   },
@@ -51,15 +51,15 @@
     "title": "[NEXT] 간단한 정적 블로그 만들기 1",
     "description": "넥스트로 간단한 정적 블로그 만들기",
     "date": "2024-05-15",
-    "category": "next",
+    "category": "Next",
     "path": "build-static-blog1",
     "featured": true
   },
   {
     "title": "[NEXT] 간단한 정적 블로그 만들기 2",
-    "description": "넥스트로 간단한 정적 블로그 만들기",
+    "description": "넥스트로 간단한 정적 블로그 만들기, 근데 나에게는 간단하지 않은,,,",
     "date": "2024-05-16",
-    "category": "next",
+    "category": "Next",
     "path": "build-static-blog2",
     "featured": true
   },
@@ -67,7 +67,7 @@
     "title": "[NEXT] 간단한 정적 블로그 만들기 3",
     "description": "넥스트로 간단한 정적 블로그 만들기",
     "date": "2024-05-17",
-    "category": "next",
+    "category": "Next",
     "path": "build-static-blog3",
     "featured": true
   }
